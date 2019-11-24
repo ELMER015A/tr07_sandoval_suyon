@@ -6,5 +6,7 @@ y=int(os.sys.argv[2])
 for i in range(x,y):
     print(i)
 
+# fin_iterador_rango
+print("fin del bucle")
 
 
