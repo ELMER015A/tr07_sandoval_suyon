@@ -1,4 +1,4 @@
-# suma de los 100 primeros numeros impares
+# suma de los 50 primeros numeros impares
 import os
 i=int(os.sys.argv[1])
 suma=0
