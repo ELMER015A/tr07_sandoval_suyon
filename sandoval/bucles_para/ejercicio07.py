@@ -7,4 +7,4 @@ while(i<=50):
     i += 1
 
 # fin_while
-print("la suma de los 100 primeros numeros impares:", suma)
+print("la suma de los 50 primeros numeros impares:", suma)
